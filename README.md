@@ -36,7 +36,7 @@ Easy way to Debug Colorful Texts in Unity Console
 
 
     
-![image](https://user-images.githubusercontent.com/16706911/66838211-286bb100-ef71-11e9-8b01-1013f6be07ab.png)
+![image](https://user-images.githubusercontent.com/16706911/66840783-72569600-ef75-11e9-80c7-4d0d3e8ffab2.png)
 
 
 <H3> Emoji </H3>
