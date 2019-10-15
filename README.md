@@ -32,7 +32,7 @@ Easy way to Debug Colorful Texts in Unity Console
 
 <H3> Font Style </H3>
 
-```DebugX.Log("Hello world:b;");```
+```DebugX.Log("Hello:b; World:i;");```
 
 
     
