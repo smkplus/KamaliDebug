@@ -22,7 +22,7 @@ Easy way to Debug Colorful texts in Unity Console
 
 ```DebugX.Log("Hello world:green;");```
 
-![image](https://user-images.githubusercontent.com/16706911/66838151-0ffb9680-ef71-11e9-9b37-d43f949eb314.png)
+![image](https://user-images.githubusercontent.com/16706911/66838611-d2e3d400-ef71-11e9-8721-c71773f4cd79.png)
 
 
 # Font Style
@@ -30,6 +30,15 @@ Easy way to Debug Colorful texts in Unity Console
 ```DebugX.Log("Hello world:b;");```
     
 ![image](https://user-images.githubusercontent.com/16706911/66838211-286bb100-ef71-11e9-8b01-1013f6be07ab.png)
+
+
+# Emoji
+
+```DebugX.Log("love:red:b; love:red:b; love:red:b;");```
+
+
+![image](https://user-images.githubusercontent.com/16706911/66839173-dd529d80-ef72-11e9-9010-eac6aaf06411.png)
+
 
 
 # Complex
