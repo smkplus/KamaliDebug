@@ -14,25 +14,24 @@ Easy way to Debug Colorful Texts in Unity Console
     }
 ```
 
-# Syntax
+<H2> Syntax
 
-<H4> (Text or Emoji)  : Color  : TextStyle ;
+(Text or Emoji)  : Color  : TextStyle ;
 
-# Font Color
+<H2> Font Color
 
 ```DebugX.Log("Hello world:green;");```
 
 ![image](https://user-images.githubusercontent.com/16706911/66838611-d2e3d400-ef71-11e9-8721-c71773f4cd79.png)
 
-
-# Font Style
+<H2> Font Style
 
 ```DebugX.Log("Hello world:b;");```
     
 ![image](https://user-images.githubusercontent.com/16706911/66838211-286bb100-ef71-11e9-8b01-1013f6be07ab.png)
 
 
-# Emoji
+<H2> Emoji
 
 ```DebugX.Log("love:red:b; love:red:b; love:red:b;");```
 
@@ -41,7 +40,7 @@ Easy way to Debug Colorful Texts in Unity Console
 
 
 
-# Complex
+<H2> Complex
 
 ```DebugX.Log("Hello:yellow:b; world:red:b;");```
 
@@ -51,5 +50,7 @@ Easy way to Debug Colorful Texts in Unity Console
 
 
 ToDo:
+
 1.Add more fontstyles , colors and emojis
+
 2.Make ScriptableObject for Colors
