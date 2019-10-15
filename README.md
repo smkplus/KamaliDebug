@@ -60,6 +60,9 @@ ___________
 
 ToDo:
 
-1.Add more fontstyles , colors and emojis
+1.optimization ( I call a regex per Debug.LogX I should prevent this in build).
 
-2.Make ScriptableObject for Colors
+2.Add more fontstyles , colors and emojis
+
+3.Make ScriptableObject for Colors
+
