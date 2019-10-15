@@ -46,3 +46,10 @@ Easy way to Debug Colorful Texts in Unity Console
 ```DebugX.Log("Hello:yellow:b; world:red:b;");```
 
 ![image](https://user-images.githubusercontent.com/16706911/66838419-7da7c280-ef71-11e9-83c6-d0dda9d5d75f.png)
+
+
+
+
+ToDo:
+1.Add more fontstyles , colors and emojis
+2.Make ScriptableObject for Colors
