@@ -42,7 +42,7 @@ Easy way to Debug Colorful texts in Unity Console
 
 
 # Complex
-`
+
 ```DebugX.Log("Hello:yellow:b; world:red:b;");```
 
 ![image](https://user-images.githubusercontent.com/16706911/66838419-7da7c280-ef71-11e9-83c6-d0dda9d5d75f.png)
