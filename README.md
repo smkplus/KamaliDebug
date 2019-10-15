@@ -14,24 +14,25 @@ Easy way to Debug Colorful Texts in Unity Console
     }
 ```
 
-<H2> Syntax
+<H3> Syntax
 
 (Text or Emoji)  : Color  : TextStyle ;
 
-<H2> Font Color
+
+<H3> Font Color
 
 ```DebugX.Log("Hello world:green;");```
 
 ![image](https://user-images.githubusercontent.com/16706911/66838611-d2e3d400-ef71-11e9-8721-c71773f4cd79.png)
 
-<H2> Font Style
+<H3> Font Style
 
 ```DebugX.Log("Hello world:b;");```
     
 ![image](https://user-images.githubusercontent.com/16706911/66838211-286bb100-ef71-11e9-8b01-1013f6be07ab.png)
 
 
-<H2> Emoji
+<H3> Emoji
 
 ```DebugX.Log("love:red:b; love:red:b; love:red:b;");```
 
@@ -40,14 +41,14 @@ Easy way to Debug Colorful Texts in Unity Console
 
 
 
-<H2> Complex
+<H3> Complex
 
 ```DebugX.Log("Hello:yellow:b; world:red:b;");```
 
 ![image](https://user-images.githubusercontent.com/16706911/66838419-7da7c280-ef71-11e9-83c6-d0dda9d5d75f.png)
 
 
-
+___________
 
 ToDo:
 
