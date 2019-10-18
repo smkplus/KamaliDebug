@@ -1,6 +1,9 @@
 # KamaliDebug
 Easy way to Debug Colorful Texts in Unity Console
 
+
+### Example 1 
+
 ![image](https://user-images.githubusercontent.com/16706911/66844927-0af01480-ef7c-11e9-8202-a2d35878955e.png)
 
 
@@ -15,7 +18,7 @@ Easy way to Debug Colorful Texts in Unity Console
     }
 ```
 
-### Variables 
+### Example 2
 
 
 ![image](https://user-images.githubusercontent.com/16706911/67084273-808cf800-f1a9-11e9-9a12-a283fc66b957.png)
