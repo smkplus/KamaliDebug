@@ -15,7 +15,7 @@ Easy way to Debug Colorful Texts in Unity Console
     }
 ```
 
-<H3> Numbers:  </H3>
+<H3> Variables  </H3>
 
 
 ![image](https://user-images.githubusercontent.com/16706911/67084273-808cf800-f1a9-11e9-9a12-a283fc66b957.png)
