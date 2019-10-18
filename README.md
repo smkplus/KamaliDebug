@@ -15,6 +15,12 @@ Easy way to Debug Colorful Texts in Unity Console
     }
 ```
 
+<H3> Numbers:  </H3>
+
+
+![image](https://user-images.githubusercontent.com/16706911/67084273-808cf800-f1a9-11e9-9a12-a283fc66b957.png)
+
+
 <H3> Syntax </H3>
 
 ```(Text or Emoji):Color:TextStyle;```
@@ -55,6 +61,7 @@ Easy way to Debug Colorful Texts in Unity Console
 ```DebugX.Log("Hello:yellow:b; world:red:b;");```
 
 ![image](https://user-images.githubusercontent.com/16706911/66838419-7da7c280-ef71-11e9-83c6-d0dda9d5d75f.png)
+
 
 
 ___________
