@@ -56,7 +56,9 @@ public class Example : MonoBehaviour
 
 ![image](https://user-images.githubusercontent.com/16706911/66838611-d2e3d400-ef71-11e9-8721-c71773f4cd79.png)
 
-<H3> Font Style </H3>
+### Font Style 
+* b = Bold
+* i = Italic
 
 ```DebugX.Log("Hello:b; World:i;");```
 
