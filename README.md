@@ -20,6 +20,22 @@ Easy way to Debug Colorful Texts in Unity Console
 
 ![image](https://user-images.githubusercontent.com/16706911/67084273-808cf800-f1a9-11e9-9a12-a283fc66b957.png)
 
+```
+using UnityEngine;
+using KamaliDebug;
+public class Example : MonoBehaviour
+{
+    public int score;
+    public int health;
+    private void Start()
+    {
+        DebugX.Log($"Score = {score}:yellow:b;");
+        DebugX.Log($"Health = {health}:green:b;");
+    }
+}
+```
+
+
 
 <H3> Syntax </H3>
 
