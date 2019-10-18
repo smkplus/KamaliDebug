@@ -15,7 +15,7 @@ Easy way to Debug Colorful Texts in Unity Console
     }
 ```
 
-<H3> Variables  </H3>
+### Variables 
 
 
 ![image](https://user-images.githubusercontent.com/16706911/67084273-808cf800-f1a9-11e9-9a12-a283fc66b957.png)
@@ -37,14 +37,14 @@ public class Example : MonoBehaviour
 
 
 
-<H3> Syntax </H3>
+### Syntax 
 
 ```(Text or Emoji):Color:TextStyle;```
 
 
 
 
-<H3> Font Color </H3>
+### Font Color
 
 ```DebugX.Log("Hello world:green;");```
 
@@ -62,7 +62,7 @@ public class Example : MonoBehaviour
 ![image](https://user-images.githubusercontent.com/16706911/66840783-72569600-ef75-11e9-80c7-4d0d3e8ffab2.png)
 
 
-<H3> Emoji </H3>
+### Emoji
 
 ```DebugX.Log("love:red:b; love:red:b; love:red:b;");```
 
@@ -72,7 +72,7 @@ public class Example : MonoBehaviour
 
 
 
-<H3> Complex </H3>
+### Complex
 
 ```DebugX.Log("Hello:yellow:b; world:red:b;");```
 
